@@ -1,0 +1,7 @@
+
+
+
+1. Notepad++
+2. Putty
+3. Visual Studio Code
+4. GIT (Git GUI, Git Bash)
